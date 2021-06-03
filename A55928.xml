@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings against Mr. J. Reading who being found guilty of high misdemeanours, was fined to the King in one thousand pounds, to suffer one years imprisonment, and to stand three several days in the pillory, at three several places; and of his usage by the people, and his deportment in the pillory. With other remarkable circumstances. With allowance.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55928</idno><idno type="EEBO-CITATION">99831952</idno>
+  <idno type="VID">36419</idno>
+  <idno type="EEBO-PROQUEST">2240942015</idno>
+  
+            <idno type="STC">Wing P3544</idno>
+            <idno type="STC">ESTC R220556</idno>
+            <idno type="PROQUEST">99831952</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831952e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36419)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2131:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings against Mr. J. Reading who being found guilty of high misdemeanours, was fined to the King in one thousand pounds, to suffer one years imprisonment, and to stand three several days in the pillory, at three several places; and of his usage by the people, and his deportment in the pillory. With other remarkable circumstances. With allowance.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for B.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3 reads: The proceedings against Mr. Reading, &amp;c.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">[Reading, John] --  Early works to 1800.</term>
+               <term type="topical_term">Trials (Perjury) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36419:1"/>
+            <p>THE PROCEEDINGS AGAINST Mr. J. Reading, WHO Being found Guilty of HIGH MISDEMEANOURS, Was fined to the KING in one thousand Pounds, To suffer one years Imprisonment, And to stand three several days in the Pillory, at three several places; And of his usage by the people, and his Deportment in the Pillory.</p>
+            <p>WITH Other remarkable Circumstances.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>B. W.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36419:2"/>
+            <pb n="3" facs="tcp:36419:2"/>
+            <head>The Proceedings against Mr. <hi>Read<g ref="char:EOLhyphen"/>ing,</hi> &amp;c.</head>
+            <p>TOO mighty are the Exorbitant thoughts of ambitious men for that mean Center Heaven has allowed, the which too of<g ref="char:EOLhyphen"/>ten makes them start beyond the bounds of Reason, and as often loose themselves in the vast Abiss of their covetous desires, by daring to attempt unlawful Actions for the hope of Lucre, prompted by an insatiable Appetite to be advanced beyond what Heaven thinks convenient for their Stations; the which no sooner ventring on, but straight the dreadful Shoales appear, and danger starts from out his Ambuscade to seize on the pre<g ref="char:EOLhyphen"/>sumptuous Hero, then turned fearful and amazed at such an unexpected surprize; for distant Ju<g ref="char:EOLhyphen"/>stice, to such men, seems but like painted Fires, mere Metaphors or Shadows of despised Ills, that
+<pb n="4" facs="tcp:36419:3"/>only seem to weave aloft; nay more, they surely create these fond conceits unto themselves, that all its Manaces, like Airy Clouds by gusty Winds dissolved, are swept along the Skies, and dare not intercept their Villanous Designs: But 'tis still ob<g ref="char:EOLhyphen"/>served, That in the fulness of their Pride, and top of all their Hopes, offended Heaven finds them out, though ne'er so subtile in their ways, though Hell gives Counsel, and the Fiends beneath are sum<g ref="char:EOLhyphen"/>moned to their aides, 'tis all in vain: No <hi>Machiavell</hi> with cunning Arts can e're delude Omnipotence, or turn unetring Justice back, as may be seen in this of which we here intend to treat; for could the Art of man have perfected the Politick Design, it sure had been performed, or at least hushed in per<g ref="char:EOLhyphen"/>petual silence: But short is finite wisdom, if com<g ref="char:EOLhyphen"/>pared with Infinity, for oftentimes it confounds it self; in what it self supposed to be most secure and Humane Wit, is often turned to Foolishness, as it was evidently known.</p>
+            <p>Thus one Mr. <hi>John Reading,</hi> a Counseller, one who was always looked upon to be a most grave and prudent man, but of an inclination covetous, and somewhat hard to the Poor; the which, as the Princely Prophet observes, are still protected by the great <hi>Jehove;</hi> and Heaven always takes their Quarrel up against their mighty Foes, and they that have such Power on their sides need never fear the frowns of envious men: And it is commonly seen, That offended Justice finds some means to lay hold
+<pb n="5" facs="tcp:36419:3"/>on those who use such Tyranny to their distressed Brethren, although not in the same nature such a Cause requires, but by some different way, for whether the aforesaid <hi>John Reading</hi> had any Actual Combination in the late most horrid and barbarous Plot is not as yet known. Upon eminent Cau<g ref="char:EOLhyphen"/>ses of suspicion he was apprehended and carried before the Committee for that purpose assembled, and all his Chambers (for he had several Chambers or Lodgings, as it is supposed, to abscond himself in case his unlawful Practices were at any time dis<g ref="char:EOLhyphen"/>covered, and in several distant places) were seized upon, Padlock'd, and guarded by Authority. When he came before the Committee aforesaid, he de<g ref="char:EOLhyphen"/>meaned himself somewhat more confidently than ordinarily, but seeing it was in vain to contend with Power, he began to be very calm: There the Witnesses alledged several grossmisdemeanors against him, to the great prejudice (if they had took effect) of this Government; the which he would there by no means confess, but the Witness being positive in their Allegations, he was by the said Committee ordered to the County Goal of <hi>Newgate,</hi> where he continued for a considerable time, but on <hi>Thurs<g ref="char:EOLhyphen"/>day</hi> the 24th of this Instant <hi>April</hi> 1679. he was brought to <hi>Westminster-Hall,</hi> in order to his Exa<g ref="char:EOLhyphen"/>mination or Tryal, to the <hi>Kings-Bench-Bar,</hi> where the Court being seated, the Jury pannell'd, and all things disposed in order, his Indictment was read in publick audience, where he the said <hi>Reading</hi> stood indicted for several great and hainous misde<g ref="char:EOLhyphen"/>meanours
+<pb n="6" facs="tcp:36419:4"/>so contrary to the established Laws of this Kingdom, and to the prejudice of his Majesties Crown and Dignity, for designing to corrupt seve<g ref="char:EOLhyphen"/>ral persons, the happy Discoverers of the late most pernicious and Diobolical Plots, and <hi>Romish</hi> Practi<g ref="char:EOLhyphen"/>ces, against his most Sacred Majesty and his peaceful Government; the which being amply proved, and that he the said <hi>Reading</hi> received moneys for the better carrying on of his Illegal Design, as well for his own part as for the distributing amongst others, to make his Enterprise more easie in acquiring, but the Parties whom he designed upon, being endued with more Loyal Principles, and faithful to their Countreys safety, were they who impeached him, and now witnessed against him.</p>
+            <p>For these and such like hainous Offences he was condemned by the Court in a Fine of one thousand Pounds to the King, to suffer one <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ears Imprisonment, and to stand in the Pil<g ref="char:EOLhyphen"/>lory three several days, in three publick places, viz. the <hi>Pallace yard Westminster, Temple-Bar,</hi> and the <hi>Royal Exchange.</hi>
+            </p>
+            <p>At the former of these places he stood, ac<g ref="char:EOLhyphen"/>cording to the Law in that case provided, on
+<pb n="7" facs="tcp:36419:4"/>
+               <hi>Monday</hi> the 28th of <hi>April,</hi> for the space of one hour, where to behold him the thronging Crouds press'd in from every side. The Of<g ref="char:EOLhyphen"/>ficers were very diligent to prevent the Mul<g ref="char:EOLhyphen"/>titudes from throwing <hi>Things,</hi> as their usual <hi>manner</hi> is, but their <hi>diligence</hi> was vain; for several <hi>naucious things</hi> were cast upon him: He behaved himself very patiently in his <hi>Sufferings,</hi> perhaps because he could not o<g ref="char:EOLhyphen"/>therwise, by reason of his <hi>Wooden Yoak,</hi> a<g ref="char:EOLhyphen"/>void by <hi>turning</hi> his Head. After he had stood the time according to order, he was <hi>con<g ref="char:EOLhyphen"/>veyed</hi> back to <hi>Prison;</hi> upon his Forehead was imposed, during the time of his <hi>standing</hi> in the Pillory, a large Paper denoting his Of<g ref="char:EOLhyphen"/>fence, with this Inscription, <hi>viz For endea<g ref="char:EOLhyphen"/>vouring Subornation of Perjury:</hi> and is to stand twice more, <hi>viz.</hi> at <hi>Temple-Bar,</hi> and the <hi>Royal Exchange.</hi>
+            </p>
+            <p>Let this be a <hi>warning</hi> to all that hereafter shall dare, in the like nature, to offend; espe<g ref="char:EOLhyphen"/>cially in so <hi>high</hi> a manner: And 'tis but just
+<pb n="8" facs="tcp:36419:5"/>that all those whom <hi>Covetousness</hi> can tempt upon such base <hi>Designs</hi> to make them false, and break <hi>Allegiance Vows,</hi> should feel the ri<g ref="char:EOLhyphen"/>gour of offended Justice, and be made exem<g ref="char:EOLhyphen"/>plary Trophies of deserved disgrace, that after Ages may beware of such pernicious Crimes.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
